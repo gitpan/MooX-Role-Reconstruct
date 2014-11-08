@@ -32,10 +32,13 @@
       },
       "runtime" : {
          "requires" : {
+            "Role::Tiny" : "0",
+            "Sub::Defer" : "0",
+            "Sub::Quote" : "0",
             "perl" : "5.006"
          }
       }
    },
    "release_status" : "stable",
-   "version" : "v0.1.1"
+   "version" : "v0.1.2"
 }
